@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+## Wellcome to my resumé
 
-You can use the [editor on GitHub](https://github.com/afelipeor/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm André Felipe, a Developer, Designer, Entrepreneur and amateur cook.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the long form of my resumé, with more details than you would usually get if I sent you an email. You might want to sit down, it may take a while.
 
-### Markdown
+Let's start with my work history in reverse chronological order, followed by my education and finally my interests and hobbies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work
 
-```markdown
-Syntax highlighted code block
+Let's start at the end then shall we?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+01-01-2021 - curent
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Full-stack developer for a stock planning system for AMBEV
 
-### Jekyll Themes
+**What does that mean?**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afelipeor/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+(In Progress ...)
 
-### Support or Contact
+```
+12-03-2018 - 01-07-2020
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Full-stack developer for a product delivery system for UNILEVER
+
+**What does that mean?**
+
+I was responsible for both front-end and back-end development together with a team of back-end developers working on a system for UNILEVER used by their teams in the field to control their deliveries.
+
+Our team attempted to use SCRUM for our internal processes, though the team on UNILEVER did not, with mixed success.
+
+The transition from the project I worked on before was done completely remotely, including forming a new team and learning new technologies.
+
+`We used a stack of Ionic, Angular, Java, PHP, C# and SQL`
+
+```
+12-03-2018 - 01-07-2020
+```
+
+### Full-stack developer for a product delivery planning system for AMBEV
+
+**What does that mean?**
+
+Simply put, I was responsible for both front-end and back-end development along with a team of back-end developers working on the award winning system we developed for AMBEV that helps them be industry leaders in order fulfillment in the beverage industry.
+
+Our team used SCRUM to plan and develop the system, and part of my responsibility was prototyping with low and high fidelity (I was chosen for this due to my design background), keeping usability in mind as well as raise any issues the users might have in using our product.
+
+During my time in this project I trained two interns to work on the front-end as well, including the person who took over when I changed projects. I was also responsible for making sure the code followed our design patterns and quality.
+
+I did this while I was an intern, and continued to do so after I got hired, until I changed projects. During 2020 we worked from home as a remote team, to great success.
+
+`We use an Angular, C# and SQL stack in this project.`
+
+(In Progress ...)
+
+## Education
+
+(In Progress ...)
+
+## Hobbies
+
+(In Progress ...)
