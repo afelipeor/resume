@@ -58,6 +58,24 @@ I did this while I was an intern, and continued to do so after I got hired, unti
 
 `We use an Angular, C# and SQL stack in this project.`
 
+### Founded afelipeor Design
+
+```
+07-08-2016 - 12-03-2018
+```
+
+Using my previous experience I started my own web-design agency, focused on UI development. I'd both create the designs as well as implement them according to the specifications of the clients.
+
+While I did do some php work, our focus was mostly HTML5, CSS3 and Javascript. We did not offer full-stack development, and specialized in website redesigns bringing older websites new life with new interactivity and following the cutting edge of best practices following the boom of UX studies.
+
+During this time I learnt a lot about management, marketing and how to help your clients discover what they really need rather than what they think they want.
+
+In a few cases we teemed up with freelancers to be able to offer a bigger service package to varying degrees of success. Learning how to find someone you can trust to get the job done as well as fit the client's style was a very important part of the process.
+
+I shut the agency down in 2018 due to health problems that led to severe burnout, even though we were really starting to gain traction in the market.
+
+Health is always priority number one.
+
 (In Progress ...)
 
 ## Education
