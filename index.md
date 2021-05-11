@@ -76,6 +76,24 @@ I shut the agency down in 2018 due to health problems that led to severe burnout
 
 Health is always priority number one.
 
+### Internship at TIVIT
+
+```
+07-08-2015 - 07-08-2016
+```
+
+Front-end developer for a B2B route planning and vehicle tracking system. I worked on the transition from php and AngularJs to Angular 2, in an effort to update the legacy code the project contained.
+
+`We used Angular, AngularJs and PHP`
+
+### Designer at PrintLabor
+
+```
+15-02-2011 - 15-12-2011
+```
+
+PrintLabor was a graphic-design agency in Rio de Janeiro. I helped open the second location and worked as lead designer, responsible for creating and approving the clients designs before they went to print. I also enabled them to offer web-design services as well, and was responsible for creating and implementing the designs.
+
 (In Progress ...)
 
 ## Education
