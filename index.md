@@ -18,7 +18,11 @@ Let's start at the end then shall we?
 
 **What does that mean?**
 
-(In Progress ...)
+I am responsible for both front-end and back-end development together with a team of back-end developers working on a system for AMBEV used for inventory distribution.
+
+Our team uses SCRUM to plan and develop the system, and part of my responsibilities is to refactor the front-end code so it follows best practices, as well as begin building automated tests for the front-end.
+
+`We use an Angular, C# and SQL stack in this project.`
 
 ```
 12-03-2018 - 01-07-2020
