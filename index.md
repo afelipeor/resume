@@ -86,6 +86,22 @@ Front-end developer for a B2B route planning and vehicle tracking system. I work
 
 `We used Angular, AngularJs and PHP`
 
+### Started André Felipe Arts
+
+```
+01-01-2013 - 01-12-2013
+```
+
+This was my first attempt at running a business. I took what I had learned while running the day to day design side at PrintLabor and decided to make it work for myself.
+
+It was the first time I seriously considered being an entrepreneur, and began to learn what it took to be one.
+
+This business was focused on graphic design and was very much a learning experience. While the graphic design part was doing ok, relying on the experience and connections I had made during my time at PrintLabor giving me a head start, I decided to pivot to web design, as it was what I felt most passionately about.
+
+While I don't think it was the wrong move to make, I was in no way prepared for what changing to web truly meant. My inexperience in the business led to me not fully understanding what I had to offer in order to really provide value to my clients. And so the packages I offered were lack-luster, even if I was priced considerably under market value.
+
+I learnt a lot about the market I wanted to operate in during this time, and felt it best to close up shop and focus on really learning the skills and understanding what the market really needed before launching myself again.
+
 ### Designer at PrintLabor
 
 ```
@@ -94,7 +110,19 @@ Front-end developer for a B2B route planning and vehicle tracking system. I work
 
 PrintLabor was a graphic-design agency in Rio de Janeiro. I helped open the second location and worked as lead designer, responsible for creating and approving the clients designs before they went to print. I also enabled them to offer web-design services as well, and was responsible for creating and implementing the designs.
 
-(In Progress ...)
+### Internship at Broto Cultural
+
+```
+15-01-2010 - 15-12-2010
+```
+
+Internship at Broto Cultural, where I was responsible for creating marketing content as maintaining the website.
+
+This is when I decided that eb was what I wanted to get into, and paved the way for the rest.
+
+## Freelancing
+
+Beyond traditional employment and
 
 ## Education
 
