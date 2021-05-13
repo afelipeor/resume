@@ -122,7 +122,17 @@ This is when I decided that eb was what I wanted to get into, and paved the way 
 
 ## Freelancing
 
-Beyond traditional employment and
+Beyond traditional employment and starting businesses I've worked as a freelancer in several different disciplines.
+
+I will not list the different companies I have worked for as a freelancer, as there would be no merit to that, but I will list the different disciplines and the services I've offered through them.
+
+### Branding services:
+
+Through the years I've specialized in offering branding packs, complete with logos, business cards, design systems, and if required, website design mockups.
+
+### Interpreting
+
+I've worked for years doing english-portuguese/portuguese-english interpreting for meetings, courses and other functions, both in person and online.
 
 ## Education
 
