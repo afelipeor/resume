@@ -10,11 +10,11 @@ Let's start with my work history in reverse chronological order, followed by my 
 
 Let's start at the end then shall we?
 
+### Full-stack developer for a stock planning system for AMBEV
+
 ```
 01-01-2021 - current
 ```
-
-### Full-stack developer for a stock planning system for AMBEV
 
 **What does that mean?**
 
@@ -40,11 +40,11 @@ The transition from the project I worked on before was done completely remotely,
 
 `We used a stack of Ionic, Angular, Java, PHP, C# and SQL`
 
+### Full-stack developer for a product delivery planning system for AMBEV
+
 ```
 12-03-2018 - 01-07-2020
 ```
-
-### Full-stack developer for a product delivery planning system for AMBEV
 
 **What does that mean?**
 
