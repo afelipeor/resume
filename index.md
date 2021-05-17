@@ -25,7 +25,7 @@ Our team uses SCRUM to plan and develop the system, and part of my responsibilit
 `We use an Angular, C# and SQL stack in this project.`
 
 ```
-12-03-2018 - 01-07-2020
+01-07-2020 - 31-12-2020
 ```
 
 ### Full-stack developer for a product delivery system for UNILEVER
