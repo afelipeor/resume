@@ -134,10 +134,50 @@ Through the years I've specialized in offering branding packs, complete with log
 
 I've worked for years doing english-portuguese/portuguese-english interpreting for meetings, courses and other functions, both in person and online.
 
+## Volunteer work
+
+-   Volunteer in Projeto Esperança do Futuro in the maintenance of its website and computers in 2009 and 2010
+
+-   Volunteer in gathering/distributing donated food and other donations by Projeto Esperança do Futuro in 2009 and 2010
+
+-   Teacher in the computing course by Projeto Esperança do Futuro to teenagers of 13 to 16 years of age in 2009
+
+-   Setup and maintenance of a missionaries base’s blog in 2008
+
 ## Education
 
-(In Progress ...)
+### Bachelor's Degree in Computer Science
+
+Graduated 2019
+
+### Web Design Certification
+
+Graduated 2010
+
+### Gastronomy course Chefes do Amanhã
+
+Graduated from the gastronomy course Chefes do Amanhã (Chefs of Tomorrow) by the government of Minas Gerais for young people in 2010.
+
+### FIJE
+
+Participated in FIJE (International Forum for Young Entrepreneurs) in 2009
+
+### High School
+
+Graduated 2009
+
+### ECHO
+
+Participated in and graduated from the ECHO program for young volunteers from 2008 to 2009
+
+### AIP
+
+Participated in and graduated from the AIP program for young volunteers in 2006
 
 ## Hobbies
 
-(In Progress ...)
+-   More programming (of course)
+
+-   Cooking
+
+-   Hiking
