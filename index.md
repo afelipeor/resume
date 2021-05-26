@@ -1,4 +1,4 @@
-## Wellcome to my resumé
+## Welcome to my resumé
 
 Hi, I'm André Felipe, a Developer, Designer, Entrepreneur, and amateur cook.
 
