@@ -10,10 +10,18 @@ Let's start with my work history in reverse chronological order, followed by my 
 
 Let's start at the end then shall we?
 
+### Front-end developer for Workling
+
+```
+01-09-2021 - current
+```
+
+
+
 ### Full-stack developer for a stock planning system for AMBEV
 
 ```
-01-01-2021 - current
+01-01-2021 - 31-08-2021
 ```
 
 **What does that mean?**
