@@ -10,7 +10,7 @@ Let's start with my work history in reverse chronological order, followed by my 
 
 Let's start at the end then shall we?
 
-### Front-end developer for Workling
+### Front-end developer for BairesDev
 
 ```
 01-09-2021 - current
